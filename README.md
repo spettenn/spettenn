@@ -1,4 +1,6 @@
-### Hi there 👋
+## hello there 👋 welcome to my git-hub profile!
+My name is Aleksander Spetalen, i am a 25 year old student from oslo, Norway.
+I am curently working on improving my skills as a front-end developer.
 
 <!--
 **spettenn/spettenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
