@@ -12,6 +12,8 @@ As a front-end developer i have become familier with sketch programs like:
 > <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 > <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 
+If you have any inquiry feel free to message me here on git-hub or reach me trough discord @Aleksander#1255.
+
 <!--
 **spettenn/spettenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
