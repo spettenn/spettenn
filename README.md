@@ -1,6 +1,6 @@
 ## hello there 👋 welcome to my git-hub profile!
-My name is Aleksander Spetalen, i am a 25 year old student from oslo, Norway.
-I am curently working on improving my skills as a front-end developer. 
+My name is Aleksander Spetalen, I am a 25 year old student from Oslo, Norway.
+I am currently working on improving my skills as a front-end developer. 
 
 I am proficient in: 
 > <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
