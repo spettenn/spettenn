@@ -1,5 +1,5 @@
 ## hello there 👋 welcome to my git-hub profile!
-My name is Aleksander Spetalen, I am a 25 year old student from Oslo, Norway.
+My name is Aleksander Spetalen, I am a 26 year old student from Oslo, Norway.
 I am currently working on improving my skills as a front-end developer. 
 
 I am proficient in: 
