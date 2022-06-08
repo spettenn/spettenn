@@ -19,7 +19,7 @@ As a front-end developer i have become familier with sketch programs like:
 
 
 If you have any inquiry feel free to message me here on git-hub or reach me trough:
-> Discord @Aleksander#1255
+> Discord @Aleksander#1255 <br />
 > E-mail: Aleksanderspetalen@gmail.com
 
 <!--
