@@ -22,9 +22,13 @@ As a front-end developer i have become familier with sketch programs like:
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spettenn&theme=gruvbox&hide_border=true" />
 </div>
 
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
 <div align="center">
 <img alt="Aleksander's activity" src="https://activity-graph.herokuapp.com/graph/?username=spettenn&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
 </div>
+</details> 
   
 If you have any inquiry feel free to message me here on git-hub or reach me trough:
 > Discord @Aleksander#1255 <br />
