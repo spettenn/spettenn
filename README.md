@@ -3,7 +3,16 @@
 <h4 align="center">a (newly finished) student, currently working on improving and learning!</h4>
 </div>
 
-- ⚡ I love technology!
+<details>
+  <summary>🧮 about</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+ <p align="center">
+  - ⚡ I love technology!
+ </p>
+</div>
+</details>
+
 
 
 I am proficient in: 
