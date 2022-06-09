@@ -18,8 +18,10 @@ As a front-end developer i have become familier with sketch programs like:
 > <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 > <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 
+<div align="center">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spettenn&theme=gruvbox&hide_border=true" />
-
+</div>
+  
 If you have any inquiry feel free to message me here on git-hub or reach me trough:
 > Discord @Aleksander#1255 <br />
 > E-mail: Aleksanderspetalen@gmail.com
