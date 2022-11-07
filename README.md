@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aleksander</h1>
-<h4 align="center">a (a soon to be finished) student, currently working on improving and learning!</h4>
+<h4 align="center">I am currently working for Panamera IMD. Mainlly working on the recruiter API and website developement.</h4>
 </div>
 
   - ⚡ I love technology!
