@@ -11,12 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer specialized in front-en
 ![](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🔥 Projects
-
-Here are some of the projects I've worked on:
-
-- [Project Name](GitHub-Project-Link) - A brief description of the project.
-- [Another Project](GitHub-Project-Link) - A short summary of what this project does.
 
 ## 📈 GitHub Stats
 
@@ -30,7 +24,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Twitter: [[@YourTwitter](Your Twitter URL)](https://x.com/spetalen)
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/aleksander-spetalen-450013209/)]
+- Twitter: [[@YourTwitter]](https://x.com/spetalen)
 - Email: Aleksanderspetalen@gmail.com
 
