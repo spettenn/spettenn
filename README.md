@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer specialized in front-en
 
 ## 📫 How to reach me
 
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/aleksander-spetalen-450013209/)]
-- Twitter: [[@YourTwitter]](https://x.com/spetalen)
+- LinkedIn: https://www.linkedin.com/in/aleksander-spetalen-450013209/
+- Twitter: https://x.com/spetalen
 - Email: Aleksanderspetalen@gmail.com
 
