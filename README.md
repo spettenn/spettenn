@@ -31,6 +31,6 @@ Here are some of the projects I've worked on:
 ## 📫 How to reach me
 
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Twitter: [@YourTwitter](Your Twitter URL)
+- Twitter: [[@YourTwitter](Your Twitter URL)](https://x.com/spetalen)
 - Email: Aleksanderspetalen@gmail.com
 
