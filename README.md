@@ -1,47 +1,36 @@
-<div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aleksander</h1>
-<h4 align="center">I am currently working for NorwegianLab, improving user experience and testing.</h4>
-</div>
+# Hi there, I'm Aleks 👋
 
-  - ⚡ I love technology!
-  - ⭐ I love innovation!
+Welcome to my GitHub profile! I'm a passionate developer specialized in front-end technologies, particularly React and Next.js.
 
+## 🛠 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-I am proficient in: 
-> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
->	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
->	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-> <img alt="nextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-And currently working on:
+## 🔥 Projects
 
+Here are some of the projects I've worked on:
 
+- [Project Name](GitHub-Project-Link) - A brief description of the project.
+- [Another Project](GitHub-Project-Link) - A short summary of what this project does.
 
-As a front-end developer i have become familier with UX tools like: 
-> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-> <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
+## 📈 GitHub Stats
 
-<div align="center">
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spettenn&theme=gruvbox&hide_border=true" />
-</div>
+![YOUR_GITHUB_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=spettenn&show_icons=true&theme=radical)
 
-  
-If you have any inquiry feel free to message me here on git-hub or reach me trough:
-> Discord @Aleksander#1255 <br />
-> E-mail: Aleksanderspetalen@gmail.com
+## 🌱 I’m currently learning ...
 
-<!--
-**spettenn/spettenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- The latest features in React
+- State management with Redux and Context API
+- Building APIs with Node.js
 
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Twitter: [@YourTwitter](Your Twitter URL)
+- Email: Aleksanderspetalen@gmail.com
+
