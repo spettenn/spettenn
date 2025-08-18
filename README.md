@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer specialized in front-en
 
 ## 🌱 I’m currently learning ...
 
-- The latest features in React
-- State management with Redux and Context API
-- Building APIs with Node.js
+- Everything
 
 ## 📫 How to reach me
 
