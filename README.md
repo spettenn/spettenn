@@ -35,4 +35,4 @@ I'm a frontend developer currently committing the cardinal sin of expanding my c
 
 ---
 
-> "It's not a bug, it's an undocumented feature" — me, defending my code in standup
+> "incentive define outcomes" <- correct
