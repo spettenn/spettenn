@@ -1,4 +1,4 @@
-# Hi there, I'm Aleksander 👋
+# Hello, I'm Aleksander 👋
 
 Welcome to my corner of GitHub, where semicolons are optional but coffee is mandatory (lul, ai joke) ☕
 
