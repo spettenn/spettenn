@@ -1,10 +1,10 @@
-# Hi there, I'm Aleks 👋
+# Hi there, I'm Aleksander 👋
 
-Welcome to my corner of GitHub, where semicolons are optional but coffee is mandatory ☕
+Welcome to my corner of GitHub, where semicolons are optional but coffee is mandatory (lul, ai joke) ☕
 
 I'm a frontend developer currently committing the cardinal sin of expanding my comfort zone — pivoting from frontend to fullstack. Yes, that means I'm learning what a backend actually does (spoiler: it's not just `console.log` in a trenchcoat).
 
-- 🎨 **Frontend wizard** specializing in React, Next.js, and TanStack — I make pixels behave
+- 🎨 **Frontend wizard** living in the React ecosystem — React, Next.js (the React framework), and TanStack (Query & Router, also React-based, in case you were wondering)
 - 🔄 **Pivoting to fullstack** because apparently "it works on my machine" isn't a complete career
 - 🤖 **AI enthusiast** — equal parts excited about the future and nervously eyeing my own job
 - 🌱 Currently learning: everything (yes, that's the actual roadmap)
@@ -21,7 +21,11 @@ I'm a frontend developer currently committing the cardinal sin of expanding my c
 
 ## 📈 GitHub Stats
 
-![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=spettenn&show_icons=true&theme=radical)
+<a href="https://github.com/spettenn">
+  <img src="https://github-readme-stats.vercel.app/api?username=spettenn&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spettenn&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spettenn&layout=compact&theme=radical&hide_border=true" />
+</a>
 
 ## 📫 How to reach me
 
