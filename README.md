@@ -2,6 +2,8 @@
 
 Welcome to my corner of GitHub, where semicolons are optional but coffee is mandatory (lul, ai joke) ☕
 
+I am Norwegian and pivoted from tourism to web development in 2020, because of reasons.... Since then, my learning journey with development has never stopped.
+
 I'm a frontend developer currently committing the cardinal sin of expanding my comfort zone — pivoting from frontend to fullstack. Yes, that means I'm learning what a backend actually does (spoiler: it's not just `console.log` in a trenchcoat).
 
 Currently working for an awesome company where i can R&D new tech era with freedom to innovate stacks, solutions and decisions! 
